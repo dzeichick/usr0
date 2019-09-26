@@ -9,7 +9,9 @@ Resources To Learn From
     - Tutorial on linux commands basic and advanced
 - [OSINT Framework](https://osintframework.com/)
     - Links to anything and everything
-    
+- [Hacksplaining](https://www.hacksplaining.com/lessons)
+    - Interactive explanation of different types of attacks
+
 #### Youtube
 - [Ippsec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
     - Retired HackTheBox machine walkthroughs
