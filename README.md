@@ -60,3 +60,9 @@ Web App
 ---------------------
 - [BurpSuite](https://portswigger.net/burp)
 - [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
+
+### Intro-Tools
+- Kali | [USB](https://linuxconfig.org/how-to-install-kali-linux#targetText=Begin%20The%20Install,drive%20as%20the%20boot%20device.&targetText=When%20Kali%20starts%20up%2C%20it,Select%20%22Install.%22) | [Dual Boot](https://docs.kali.org/installation/dual-boot-kali-with-windows) | [Virtual Machine](https://www.nakivo.com/blog/install-kali-linux-vmware/)
+- Nmap [Github](https://github.com/nmap/nmap)
+- Metasploit [Website Download](https://www.metasploit.com/download)
+- Burp Suite [Website Download](https://portswigger.net/burp/communitydownload)
