@@ -67,3 +67,10 @@ Intro-Tools
 - Nmap [Github](https://github.com/nmap/nmap) | [Website Download](https://nmap.org/download.html)
 - Metasploit [Website Download](https://www.metasploit.com/download)
 - Burp Suite [Website Download](https://portswigger.net/burp/communitydownload)
+
+
+Competitions
+---------------------
+- [National Cyber League (NCL](https://www.nationalcyberleague.org/)
+- [Collegiate Penetration Testing Competition (CPTC](https://cptc-west.stanford.edu/)
+- [BurpSuite](https://portswigger.net/burp)
