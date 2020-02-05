@@ -19,6 +19,8 @@ Resources To Learn From
     - High level/easy to understand hacking topics
 - [JackkTutorials](https://www.youtube.com/user/JackkTutorials/videos)
     - Tutorials and how-tos relating to all things hacking
+- [Nahamsec] (https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw/playlists)
+    - Web Hacking
 
 #### Books
 - [Black Hat Python](https://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900/ref=sr_1_1?ie=UTF8&qid=1536204838&sr=8-1&keywords=blackhat+python)
@@ -36,6 +38,7 @@ Python Tools
 - [Scapy](https://github.com/secdev/scapy/)
     - [thePacketGeek](https://thepacketgeek.com/) | Examples using Scapy
 - [Requests](https://docs.python.org/3/library/urllib.request.html)
+- [Web Hacking Tools](https://github.com/nahamsec/bbht)
 
 Steganography
 ---------------------
