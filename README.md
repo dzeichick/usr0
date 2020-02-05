@@ -19,7 +19,7 @@ Resources To Learn From
     - High level/easy to understand hacking topics
 - [JackkTutorials](https://www.youtube.com/user/JackkTutorials/videos)
     - Tutorials and how-tos relating to all things hacking
-- [Nahamsec] (https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw/playlists)
+- [Nahamsec](https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw/playlists)
     - Web Hacking
 
 #### Books
