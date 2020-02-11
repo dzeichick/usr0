@@ -11,6 +11,8 @@ Resources To Learn From
     - Links to anything and everything
 - [Hacksplaining](https://www.hacksplaining.com/lessons)
     - Interactive explanation of different types of attacks
+- [Hack The Box](https://www.hackthebox.eu/)
+    - Pen Testing lab machines
 
 #### Youtube
 - [Ippsec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
@@ -21,6 +23,10 @@ Resources To Learn From
     - Tutorials and how-tos relating to all things hacking
 - [Nahamsec](https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw/playlists)
     - Web Hacking
+- [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+    - CTF/Bug Bounties/All around hacking channel
+- [John Hammond](https://www.youtube.com/user/RootOfTheNull)
+    - Easy to follow CTF walkthroughs
 
 #### Books
 - [Black Hat Python](https://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900/ref=sr_1_1?ie=UTF8&qid=1536204838&sr=8-1&keywords=blackhat+python)
@@ -74,6 +80,5 @@ Intro-Tools
 
 Competitions
 ---------------------
-- [National Cyber League (NCL](https://www.nationalcyberleague.org/)
-- [Collegiate Penetration Testing Competition (CPTC](https://cptc-west.stanford.edu/)
-- [BurpSuite](https://portswigger.net/burp)
+- [National Cyber League (NCL)](https://www.nationalcyberleague.org/)
+- [Collegiate Penetration Testing Competition (CPTC)](https://cptc-west.stanford.edu/)
