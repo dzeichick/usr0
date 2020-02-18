@@ -1,0 +1,6 @@
+/css (Status: 301)
+/fonts (Status: 301)
+/images (Status: 301)
+/js (Status: 301)
+/server-status (Status: 403)
+/upload (Status: 301)
