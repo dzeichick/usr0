@@ -13,6 +13,8 @@ Resources To Learn From
     - Interactive explanation of different types of attacks
 - [Hack The Box](https://www.hackthebox.eu/)
     - Pen Testing lab machines
+- [Try Hack Me](https://tryhackme.com/)
+    - Pen Testing and informative guides all done through the browser.
 
 #### Youtube
 - [Ippsec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
@@ -46,6 +48,12 @@ Python Tools
 - [Requests](https://docs.python.org/3/library/urllib.request.html)
 - [Web Hacking Tools](https://github.com/nahamsec/bbht)
 
+Scripting Tools & Guides
+---------------------
+- BASH [Intro-To-BASH](https://www.linux.com/training-tutorials/writing-simple-bash-script/) | [YouTube](https://www.youtube.com/watch?v=PPQ8m8xQAs8)
+
+- Powershell [Guide](https://docs.microsoft.com/en-us/learn/modules/introduction-to-powershell/)
+
 Steganography
 ---------------------
 - [StegCracker](https://github.com/Paradoxis/StegCracker)
@@ -64,6 +72,7 @@ Networking
 - [WireShark](https://www.wireshark.org/)
 - [NetworkMiner](http://www.netresec.com/?page=NetworkMiner)
 - [tcpflow](https://github.com/simsong/tcpflow)
+- PCAP file analysis [Tool](https://malware-traffic-analysis.net/)
 
 Web App
 ---------------------
@@ -72,7 +81,7 @@ Web App
 
 Intro-Tools
 ---------------------
-- Kali | [USB](https://linuxconfig.org/how-to-install-kali-linux#targetText=Begin%20The%20Install,drive%20as%20the%20boot%20device.&targetText=When%20Kali%20starts%20up%2C%20it,Select%20%22Install.%22) | [Dual Boot](https://docs.kali.org/installation/dual-boot-kali-with-windows) | [Virtual Machine](https://www.nakivo.com/blog/install-kali-linux-vmware/)
+- Kali | [USB](https://linuxconfig.org/how-to-install-kali-linux#targetText=Begin%20The%20Install,drive%20as%20the%20boot%20device.&targetText=When%20Kali%20starts%20up%2C%20it,Select%20%22Install.%22) | [Dual Boot](https://docs.kali.org/installation/dual-boot-kali-with-windows) | [Virtual Machine](https://www.nakivo.com/blog/install-kali-linux-vmware/) | [VMWare for Chico Students](https://csuchico.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&cmi_mnuMain=2b44b80c-dfc9-e111-971c-f04da23e67f6)
 - Nmap [Github](https://github.com/nmap/nmap) | [Website Download](https://nmap.org/download.html)
 - Metasploit [Website Download](https://www.metasploit.com/download)
 - Burp Suite [Website Download](https://portswigger.net/burp/communitydownload)
