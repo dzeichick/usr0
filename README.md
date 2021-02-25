@@ -37,6 +37,9 @@ Resources To Learn From
 - [PoC||GTFO](https://www.alchemistowl.org/pocorgtfo/)
 - [Phrak](http://phrack.org/archives/)
 
+#### Podcasts
+- [Darknet Diaries](https://darknetdiaries.com/)
+
 Python Tools
 ---------------------
 - Pwntools [Documentation](http://docs.pwntools.com/en/stable/) | [GitHub](https://github.com/Gallopsled/pwntools)
