@@ -21,8 +21,6 @@ Resources To Learn From
     - Retired HackTheBox machine walkthroughs
 - [Hak5](https://www.youtube.com/user/Hak5Darren/featured)
     - High level/easy to understand hacking topics
-- [JackkTutorials](https://www.youtube.com/user/JackkTutorials/videos)
-    - Tutorials and how-tos relating to all things hacking
 - [Nahamsec](https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw/playlists)
     - Web Hacking
 - [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
