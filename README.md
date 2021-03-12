@@ -17,7 +17,7 @@ Resources To Learn From
     - Pen Testing and informative guides all done through the browser.
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
     - Web security training from the creators of Burp Suite
-- [PenterterLab](https://pentesterlab.com)
+- [PentesterLab](https://pentesterlab.com)
     - Web hacking challenges
 
 #### Youtube
