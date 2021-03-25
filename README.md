@@ -15,14 +15,16 @@ Resources To Learn From
     - Pen Testing lab machines
 - [Try Hack Me](https://tryhackme.com/)
     - Pen Testing and informative guides all done through the browser.
+- [PortSwigger Web Security Academy](https://portswigger.net/web-security)
+    - Web security training from the creators of Burp Suite
+- [PentesterLab](https://pentesterlab.com)
+    - Web hacking challenges
 
 #### Youtube
 - [Ippsec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
     - Retired HackTheBox machine walkthroughs
 - [Hak5](https://www.youtube.com/user/Hak5Darren/featured)
     - High level/easy to understand hacking topics
-- [JackkTutorials](https://www.youtube.com/user/JackkTutorials/videos)
-    - Tutorials and how-tos relating to all things hacking
 - [Nahamsec](https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw/playlists)
     - Web Hacking
 - [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
@@ -34,10 +36,15 @@ Resources To Learn From
 - [Black Hat Python](https://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900/ref=sr_1_1?ie=UTF8&qid=1536204838&sr=8-1&keywords=blackhat+python)
 - [Grey Hat Python](https://www.amazon.com/Gray-Hat-Python-Programming-Engineers/dp/1593271921/ref=sr_1_1?ie=UTF8&qid=1536204978&sr=8-1&keywords=grey+hat+python)
 - [Hacking: The Art of Exploitation](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441)
+- [Reverse Engineering for Beginners](https://github.com/ckonstantinou/re4b)
+- [Practical Malware Analysis](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901)
 
 #### Fun Reads
 - [PoC||GTFO](https://www.alchemistowl.org/pocorgtfo/)
 - [Phrak](http://phrack.org/archives/)
+
+#### Podcasts
+- [Darknet Diaries](https://darknetdiaries.com/)
 
 Python Tools
 ---------------------
@@ -66,7 +73,6 @@ Reverse Engineering
 - [Ghidra](https://github.com/NationalSecurityAgency/ghidra)
 - [Binwalk](https://github.com/ReFirmLabs/binwalk)
 - [Foremost](https://github.com/korczis/foremost)
-
 Networking
 ---------------------
 - [WireShark](https://www.wireshark.org/)
