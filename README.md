@@ -73,6 +73,9 @@ Reverse Engineering
 - [Ghidra](https://github.com/NationalSecurityAgency/ghidra)
 - [Binwalk](https://github.com/ReFirmLabs/binwalk)
 - [Foremost](https://github.com/korczis/foremost)
+- [pwngdb](https://github.com/pwndbg/pwndbg)
+- [peda 4 gdb](https://github.com/longld/peda)
+
 Networking
 ---------------------
 - [WireShark](https://www.wireshark.org/)
@@ -84,6 +87,11 @@ Web App
 ---------------------
 - [BurpSuite](https://portswigger.net/burp)
 - [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
+
+Crypto / Cipher
+---------------------
+- [CyberChef](https://gchq.github.io/CyberChef/)
+- [Cipher ID'er](https://www.boxentriq.com/code-breaking/cipher-identifier)
 
 Intro-Tools
 ---------------------
