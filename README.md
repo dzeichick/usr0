@@ -31,6 +31,8 @@ Resources To Learn From
     - CTF/Bug Bounties/All around hacking channel
 - [John Hammond](https://www.youtube.com/user/RootOfTheNull)
     - Easy to follow CTF walkthroughs
+- [hacker 101](https://www.hacker101.com/videos)
+    - A diverse set of topics for the beginner
 
 #### Books
 - [Black Hat Python](https://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900/ref=sr_1_1?ie=UTF8&qid=1536204838&sr=8-1&keywords=blackhat+python)
@@ -100,6 +102,9 @@ Intro-Tools
 - Metasploit [Website Download](https://www.metasploit.com/download)
 - Burp Suite [Website Download](https://portswigger.net/burp/communitydownload)
 
+Virtual Machines
+---------------------
+- [VulnHub](https://www.vulnhub.com/)
 
 Competitions
 ---------------------
