@@ -97,7 +97,7 @@ Crypto / Cipher
 
 Intro-Tools
 ---------------------
-- Kali | [USB](https://linuxconfig.org/how-to-install-kali-linux#targetText=Begin%20The%20Install,drive%20as%20the%20boot%20device.&targetText=When%20Kali%20starts%20up%2C%20it,Select%20%22Install.%22) | [Dual Boot](https://docs.kali.org/installation/dual-boot-kali-with-windows) | [Virtual Machine](https://www.nakivo.com/blog/install-kali-linux-vmware/) | [VMWare for Chico Students](https://csuchico.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&cmi_mnuMain=2b44b80c-dfc9-e111-971c-f04da23e67f6)
+- Kali | [USB](https://linuxconfig.org/how-to-install-kali-linux#targetText=Begin%20The%20Install,drive%20as%20the%20boot%20device.&targetText=When%20Kali%20starts%20up%2C%20it,Select%20%22Install.%22) | [Dual Boot](https://www.kali.org/docs/installation/dual-boot-kali-with-windows/) | [Virtual Machine](https://www.nakivo.com/blog/install-kali-linux-vmware/) | [VMWare for Chico Students](https://support.csuchico.edu/TDClient/1984/Portal/KB/ArticleDet?ID=112995)
 - Nmap [Github](https://github.com/nmap/nmap) | [Website Download](https://nmap.org/download.html)
 - Metasploit [Website Download](https://www.metasploit.com/download)
 - Burp Suite [Website Download](https://portswigger.net/burp/communitydownload)
