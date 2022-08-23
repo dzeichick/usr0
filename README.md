@@ -21,6 +21,8 @@ Resources To Learn From
     - Web hacking challenges
 
 #### Youtube
+- [CyberSecurityTV](https://www.youtube.com/c/CyberSecurityTV/featured)
+    - We are teaching tools, techniques and methods which can be used on penetration testing assignments.
 - [Ippsec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
     - Retired HackTheBox machine walkthroughs
 - [Hak5](https://www.youtube.com/user/Hak5Darren/featured)
