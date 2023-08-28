@@ -112,3 +112,4 @@ Competitions
 ---------------------
 - [National Cyber League (NCL)](https://www.nationalcyberleague.org/)
 - [Collegiate Penetration Testing Competition (CPTC)](https://cptc-west.stanford.edu/)
+- [SANS Holiday Hacks] (https://github.com/john-r2/HolidayHackLessonized)
